@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Thinh
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Thinh.
+- 👀 I’m currently working on React Native in HCM, Viet Nam.
+- 🌱 I’m currently learning Web developer, NodeJS, ReactJS, React Native, Typescript.
+- 💞️ I’m looking to collaborate on Javascript.
+- 📫 I’m looking for help with English, React Native UI.
+- 💬 Ask me about React, React Native, Javascript.
+- ⚡ Fun fact: Big Dreams start with small steps.
 
 <!---
 vanthinh2001x/vanthinh2001x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
