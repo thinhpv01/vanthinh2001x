@@ -2,8 +2,8 @@
 - 👀 I’m currently working on React Native in HCM, Viet Nam.
 - 🌱 I’m currently learning Web developer, NodeJS, ReactJS, React Native, Typescript.
 - 💞️ I’m looking to collaborate on Javascript.
-- 📫 I’m looking for help with English, React Native UI.
-- 💬 Ask me about React, React Native, Javascript.
+- 📫 I’m looking for help with React Native, NodeJS.
+- 💬 Ask me about Javascript, NodeJS, ReactJS, React Native.
 - ⚡ Fun fact: Big Dreams start with small steps.
 
 <!---
