@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Thinh.
-- 👀 I’m currently working on React Native in HCM, Viet Nam.
+- 👀 I’m currently working on G-Net in HCM, Viet Nam.
 - 🌱 I’m currently learning Web developer, NodeJS, ReactJS, React Native, Typescript.
-- 💞️ I’m looking to collaborate on Javascript.
-- 📫 I’m looking for help with React Native, NodeJS.
-- 💬 Ask me about Javascript, NodeJS, ReactJS, React Native.
+- 💞️ I’m looking to collaborate on Developer Tooling.
+- 📫 I’m looking for help with Framework collaborations.
+- 💬 Ask me about anything.
 - ⚡ Fun fact: Big Dreams start with small steps.
 
 <!---
